@@ -5,7 +5,7 @@
 
 **Websites:**
 
-[The Tatras through my eyes](http://tatry.hu) | [Weather on the map](http://weathermap.hu)
+[Tatry.hu](https://tatry.hu) | [Weather on the map](http://weathermap.hu)
 
 **Social Media**
 
