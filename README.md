@@ -14,3 +14,5 @@
 <a href="https://www.pinterest.com/tatry_hu" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" title="Pinterest"></a>
 <a href="https://www.youtube.com/c/SzilardOrban" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" title="YouTube"></a>
 <a href="https://twitter.com/tatry_hu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter"></a>
+<a href="https://www.strava.com/athletes/28214591" target="_blank"><img src="https://img.shields.io/badge/STRAVA-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava" title="Strava"></a>
+
