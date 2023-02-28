@@ -1,5 +1,9 @@
-<a href="https://tatry.hu" target="_blank"><img src="https://img.shields.io/badge/TATRY.HU-006000?style=for-the-badge&logo=angular&logoColor=white" alt="tatry.hu" title="tatry.hu"></a>
+<a href="https://tatry.hu" target="_blank"><img src="https://img.shields.io/badge/TATRY.HU-dd0031?style=for-the-badge&logo=angular&logoColor=white" alt="tatry.hu" title="tatry.hu"></a>
+<a href="https://komarnicki.tatry.hu" target="_blank"><img src="https://img.shields.io/badge/KOMARNICKI.TATRY.HU-000000?style=for-the-badge&logo=html5&logoColor=white" alt="komarnicki.tatry.hu" title="komarnicki.tatry.hu"></a>
+<a href="https://photos.tatry.hu" target="_blank"><img src="https://img.shields.io/badge/PHOTOS.TATRY.HU-41b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="photos.tatry.hu" title="photos.tatry.hu"></a>
+<a href="https://weather.tatry.hu" target="_blank"><img src="https://img.shields.io/badge/WEATHER.TATRY.HU-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" alt="weather.tatry.hu" title="weather.tatry.hu"></a>
 <a href="https://weathermap.hu" target="_blank"><img src="https://img.shields.io/badge/WEATHERMAP.HU-000088?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="weathermap.hu" title="weathermap.hu"></a>
+<a href="https://gps.weathermap.hu" target="_blank"><img src="https://img.shields.io/badge/GPS.WEATHERMAP.HU-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" alt="gps.weathermap.hu" title="gps.weathermap.hu"></a>
 
 <a href="https://github.com/orbanszlrd" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"></a>
 <a href="https://gitlab.com/orbanszlrd" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" title="GitLab"></a>
