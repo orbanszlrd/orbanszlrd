@@ -5,6 +5,7 @@
 <a href="https://weathermap.hu" target="_blank"><img src="https://img.shields.io/badge/WEATHERMAP.HU-00dc82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="weathermap.hu" title="weathermap.hu"></a>
 <a href="https://gps.weathermap.hu" target="_blank"><img src="https://img.shields.io/badge/GPS.WEATHERMAP.HU-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" alt="gps.weathermap.hu" title="gps.weathermap.hu"></a>
 <a href="https://images.dinodev.hu" target="_blank"><img src="https://img.shields.io/badge/IMAGES.DINODEV.HU-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="images.dinodev.hu" title="images.dinodev.hu"></a>
+<a href="https://photos.dinodev.hu" target="_blank"><img src="https://img.shields.io/badge/PHOTOS.DINODEV.HU-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="photos.dinodev.hu" title="photos.dinodev.hu"></a>
 <a href="https://crypto.dinodev.hu" target="_blank"><img src="https://img.shields.io/badge/CRYPTO.DINODEV.HU-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="crypto.dinodev.hu" title="crypto.dinodev.hu"></a>
 
 <a href="https://github.com/orbanszlrd" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"></a>
